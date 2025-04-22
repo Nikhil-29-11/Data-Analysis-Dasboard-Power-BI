@@ -61,7 +61,7 @@ To analyze and visualize Madhav E-commerce sales data in order to understand ove
 
   ## Dashboard
 
-![vinda store]()
+![vinda store](https://github.com/Nikhil-29-11/Data-Analysis-Dasboard-Power-BI/blob/main/MADHAV%20ECOMMERCE%20SALES.png)
 
 ## 🔍 Project Insight
 The dashboard revealed that Clothing is the most sold category, and Printers and Bookcases generate the highest profit. Maharashtra and Madhya Pradesh are the top-performing states in terms of sales. Cash on Delivery (COD) is the most preferred payment method. Profits are highest in January and December, while May and June show low or negative profits. These insights can help in making better marketing, inventory, and sales strategy decisions.
