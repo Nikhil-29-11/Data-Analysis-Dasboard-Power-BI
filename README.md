@@ -7,4 +7,4 @@ To analyze and visualize Madhav E-commerce sales data in order to understand ove
 ## Dataset used
 1-<a href="https://github.com/Nikhil-29-11/Data-Analysis-Dasboard-Power-BI/blob/main/Orders.csv">Dataset</a>
 
-2-<a href="">Dataset</a>
+2-<a href="https://github.com/Nikhil-29-11/Data-Analysis-Dasboard-Power-BI/blob/main/Details.csv">Dataset</a>
